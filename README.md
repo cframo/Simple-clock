@@ -2,7 +2,7 @@
 
 A digital fullscreen clock for desktop.
 
-## Sceenshot
+## Screenshot
 
 ![screenshot](https://github.com/cframo/Simple-clock/blob/master/screenshot/screenshot.png)
 
